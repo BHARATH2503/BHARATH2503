@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:bharathkanagu003@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRIPsoEpHpThdRC8nQ4FMbsP0wIDKxykEJA&usqp=CAU" alt="bharathkanagu003@gmail.com" height="30" width="40" /></a>
-<a href="https://twitter.com/Bharath__003" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="Bharath__003" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/bharathvk" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" alt="bharathvk" height="40" width="40" /></a>
+<a href="mailto:bharathkanagu003@gmail.com" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRIPsoEpHpThdRC8nQ4FMbsP0wIDKxykEJA&usqp=CAU" alt="bharathkanagu003@gmail.com" height="30" width="40" /></a>
+<a href="https://twitter.com/Bharath__003" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="Bharath__003" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/bharathvk" target="_blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" alt="bharathvk" height="40" width="40" /></a>
   
 </p>
 
