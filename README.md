@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bharath</h1>
+<h1 align="center">Hi 👋, I'm Bharath V K</h1>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=25&pause=1000&center=true&vCenter=true&width=500&lines=A+FullStack+Developer" alt="Typing SVG" /></p>
 
